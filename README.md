@@ -8,7 +8,7 @@ En este reporte se busca desarrollar un reporte de finanzas personales que nos p
   
   **Página 2** | Medidas:
 
-  ![pagina_2.png]()
+  ![pagina_2.png](https://github.com/guadano/Power_Bi_Finanzas_Personales/blob/main/Imagenes/pagina_2.png)
     
   **Página 3** | Cuota de Ingresos:
 
