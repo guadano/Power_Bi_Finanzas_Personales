@@ -1,5 +1,5 @@
 # Power Bi - Finanzas personales
-
+ 
 En este reporte se busca desarrollar un reporte de finanzas personales que nos permita visualizar e interactuar con indicadores sencillos de comprender desde cualquier dispositivo (PC, tablet, celular). El reporte esta compuesto por las siguientes páginas:
 
   **Página 1** | Pagina de inicio:
